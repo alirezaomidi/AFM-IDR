@@ -1,5 +1,6 @@
 # minD score for AlphaFold-Multimer
-⛔ [THIS REPO IS NOT ACTIVE]: A more complete package to calculate minD, analyze, and fragment proteins are published in the [alirezaomidi/AFminD](https://github.com/alirezaomidi/AFminD) repo.
+>[!WARNING]
+> A more complete package to calculate minD, analyze, and fragment proteins are published in the [alirezaomidi/AFminD](https://github.com/alirezaomidi/AFminD) repo.
 
 ## Prerequisites
 
